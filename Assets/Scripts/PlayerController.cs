@@ -15,7 +15,7 @@ public class PlayerController : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+       
     }
 
     // Update is called once per frame
@@ -41,5 +41,7 @@ public static class Layers
     public const int Cube = 9;
     public const int Bullet = 6;
     public const int FinishLine = 10;
+    
+    
 
 }
